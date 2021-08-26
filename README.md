@@ -1,4 +1,4 @@
-# API.SDK.ExternalAPIService
+# ABB.ExternalAPIService
 
 Web API is an application programming interface (API) that is used to enable communication or interaction with software components with each other.
 ASP.NET Web API is a framework that makes it easy to build HTTP Service that reaches a broad range of clients, including browsers and mobile devices.
