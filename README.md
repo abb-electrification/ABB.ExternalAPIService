@@ -6,4 +6,4 @@ ASP.NET Web API is a framework that makes it easy to build HTTP Service that rea
 After downloading the C# Web API project, Run the solution.
 The Http methods written in the project can be used to export the API SDK platform data and access the data.
 
-The project contains Http Post method to export the API SDK platform data(a list of data) sent by the console application and a Get method is used to access the exported platform data.
+The project contains Http Post method to export the API SDK platform data(a list of data) sent by the console application and an Http Get method to access the exported platform data.
