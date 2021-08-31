@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "nF2Wd2aowx0TadCTrY+U1s/UdbfzpgBlCr+rFMO0s8qfgtIEklCe+CbEDg5EdnpgjTCm3fn0PzD4rDRc9YnduA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\INRADS1\\source\\repos\\Electrification.ABB.SDK.Connector\\Electrification.ABB.SDK.Connector.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\INRADS1\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\INRADS1\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\INRADS1\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\INRADS1\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\INRADS1\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\INRADS1\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
